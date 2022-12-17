@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖I'm a 2nd Year Undergraduate at Indian Institute of Information Technology Sri City, Chittoor pursuing Computer Science Degree <br>🔭 I’m currently working on Developing myself as a Software Developer<br>👯 I’m looking to collaborate with various Android Developers<br>🌱 I’m currently exploring various fields in the branch of Computer Science<br>
+📖 I'm a 2nd Year Undergraduate at Indian Institute of Information Technology Sri City, Chittoor pursuing Computer Science Degree <br>🔭 I’m currently working on Developing myself as a Software Developer<br>👯 I’m looking to collaborate with various Android Developers<br>🌱 I’m currently exploring various fields in the branch of Computer Science<br>
 
 
 ## 🌐 Socials:
