@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 I am a sophomore studying Computer Science Engineering at IIITS<br>📱 I'm an Android Developer enthusiast Developing Applications in Java and Kotlin.<br>👯 Currently, I'm exploring Backend Development using Golang and Node.js<br>🌱 Developing my skills to solve real-life problems and bring a change in the community
+📖 I am a pre-final year studying Computer Science Engineering at IIITS<br>📱 I'm an Android Developer enthusiast Developing Applications in Java and Kotlin.<br>👯 Currently, I'm exploring Backend Development using Golang and Node.js<br>🌱 Developing my skills to solve real-life problems and bring a change in the community
 
 
 ## 🌐 Socials:
