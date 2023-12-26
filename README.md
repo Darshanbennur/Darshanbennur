@@ -1,6 +1,9 @@
 # 💫 About Me:
-📖 I am a pre-final year studying Computer Science Engineering at IIITS<br>📱 I'm an Android Developer enthusiast Developing Applications in Java and Kotlin.<br>👯 Currently, I'm exploring Backend Development using Golang and Node.js<br>🌱 Developing my skills to solve real-life problems and bring a change in the community
-
+📖 I am a pre-final year student pursuing Computer Science Engineering at IIITS.<br>
+📱 I'm passionate about Android Development, creating applications using Java and Kotlin.<br>
+💻 I have hands-on experience in developing Web applications using MERN stack and other technology stacks.<br>
+👯 I'm also a Finance Enthusiast with experience in Derivative and Equity Trading within the Indian Stock Market.<br>
+🌱 Continuously developing my skills to address real-life challenges and contribute positively to the community.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darshan_what_a_drag) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-bennur) 
