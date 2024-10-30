@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 I am a pre-final year student pursuing Computer Science Engineering at IIITS.<br>
+📖 I am a final year student pursuing Computer Science Engineering at IIIT Sri City.<br>
 📱 I'm passionate about Android Development, creating applications using Java and Kotlin.<br>
 💻 I have hands-on experience in developing Web applications using MERN stack and other technology stacks.<br>
 👯 I'm also a Finance Enthusiast with experience in Derivative and Equity Trading within the Indian Stock Market.<br>
