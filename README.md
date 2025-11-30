@@ -1,9 +1,9 @@
 # 💫 About Me:
-📊 Quant Researcher & Developer at Arrowhead Capital Management
-📈 Passionate about systematic trading, quantitative research, and building data-driven trading strategies.
-💡 Strong interest in derivatives, equities, and the intersection of finance + technology.
-🧠 Continuously learning and experimenting with quant models, market microstructure, and algorithmic trading systems.
-🌱 Always exploring new ways to apply quantitative methods to solve real-world financial problems.
+📊 Quant Researcher & Developer at Arrowhead Capital Management <br>
+📈 Passionate about systematic trading, quantitative research, and building data-driven trading strategies. <br>
+💡 Strong interest in derivatives, equities, and the intersection of finance + technology. <br>
+🧠 Continuously learning and experimenting with quant models, market microstructure, and algorithmic trading systems. <br>
+🌱 Always exploring new ways to apply quantitative methods to solve real-world financial problems. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-bennur) 
